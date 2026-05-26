@@ -1,8 +1,7 @@
 import cv2
 import numpy as np
 import math
-from constants import *
-
+from phase3_lane_detection.constants import*
 
 class LaneDetector:
     """
