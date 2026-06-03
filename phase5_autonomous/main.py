@@ -12,6 +12,7 @@ from phase5_autonomous.utils             import (
     draw_autonomous_hud, draw_path, draw_grid_overlay
 )
 
+from phase7_dashboard.backend.data_bridge import bridge
 
 def main():
     pipeline = PerceptionPipeline()
@@ -42,6 +43,15 @@ def main():
 
         # ── Autonomous decision ──────────────────────────────────
         steer, throttle, brake, debug = driver.decide(perception)
+
+        bridge.update({
+            "speed": 5.0,
+            "steer": steer,
+            "throttle": throttle,
+            "brake": brake,
+            "behavior_state": "CRUISE",
+            "warnings": [],
+        })
 
         # ── Visualize path + grid ────────────────────────────────
         if show_grid:

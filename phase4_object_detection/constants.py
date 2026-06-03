@@ -5,7 +5,7 @@
 # ================================================================
 
 # ── Video source ────────────────────────────────────────────────
-VIDEO_SOURCE  = 0               # 0 = webcam, or a file path string
+VIDEO_SOURCE  = r"C:\Users\Pavi\Desktop\SelfDrivingCarSimulation\phase4_object_detection\test_assets\drive.mp4"               # 0 = webcam, or a file path string
 FRAME_WIDTH   = 960
 FRAME_HEIGHT  = 540
 

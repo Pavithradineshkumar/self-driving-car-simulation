@@ -1,5 +1,27 @@
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
+
+# VS Code
 .vscode/
-yolov8n.pt
+
+# Frontend
+node_modules/
+dist/
+
+# ML Models
+*.pt
+*.pth
+*.onnx
+
+# RL Saved Models
+phase6_rl/saved_models/
+
+# Environment
+.env
+
+# OS Files
+Thumbs.db
+.DS_Store
