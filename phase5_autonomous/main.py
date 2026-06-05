@@ -13,6 +13,7 @@ from phase5_autonomous.utils             import (
 )
 
 from phase7_dashboard.backend.data_bridge import bridge
+from phase8_deployment.ipc.publisher import publisher
 
 def main():
     pipeline = PerceptionPipeline()
@@ -51,6 +52,15 @@ def main():
             "brake": brake,
             "behavior_state": "CRUISE",
             "warnings": [],
+        })
+
+        publisher.publish({
+            "speed": 5.0,
+            "steer": round(steer, 3),
+            "throttle": round(throttle, 3),
+            "brake": brake,
+            "behavior_state": debug.get("state", "CRUISE"),
+            "warnings": perception.get("warnings", [])
         })
 
         # ── Visualize path + grid ────────────────────────────────

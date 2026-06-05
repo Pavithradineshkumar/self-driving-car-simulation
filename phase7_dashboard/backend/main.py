@@ -11,6 +11,7 @@ from fastapi.responses                  import StreamingResponse, JSONResponse
 from phase7_dashboard.backend.constants import CORS_ORIGINS, WS_INTERVAL
 from phase7_dashboard.backend.data_bridge import bridge
 from phase7_dashboard.backend.video_stream import video_stream
+from phase8_deployment.ipc.subscriber import subscriber
 
 app = FastAPI(title="Self-Driving Car Dashboard API")
 
@@ -28,12 +29,14 @@ app.add_middleware(
 @app.on_event("startup")
 async def startup():
     video_stream.start()
+    subscriber.start()
     print("Dashboard backend running at http://localhost:8000")
 
 @app.on_event("shutdown")
 async def shutdown():
     video_stream.stop()
-
+    subscriber.stop()
+    
 # ── REST endpoints ────────────────────────────────────────────────
 
 @app.get("/api/state")
