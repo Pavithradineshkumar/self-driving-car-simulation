@@ -2,6 +2,7 @@
 
 import asyncio
 import json
+from operator import sub
 import time
 
 from fastapi                            import FastAPI, WebSocket, WebSocketDisconnect
@@ -28,7 +29,7 @@ app.add_middleware(
 
 @app.on_event("startup")
 async def startup():
-    video_stream.start()
+    #video_stream.start()
     subscriber.start()
     print("Dashboard backend running at http://localhost:8000")
 

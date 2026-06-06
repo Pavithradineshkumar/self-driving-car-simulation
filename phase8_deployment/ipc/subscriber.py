@@ -5,9 +5,19 @@ import json
 import threading
 import os
 
+import sys
+import os
+
+PROJECT_ROOT = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "..")
+)
+
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
 from phase7_dashboard.backend.data_bridge import bridge
 
-REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379")
+REDIS_URL = "redis://127.0.0.1:6379"
 CHANNEL   = "telemetry"
 
 
@@ -64,8 +74,9 @@ class TelemetrySubscriber:
 
                     try:
                         data = json.loads(message["data"])
+                        print("RECEIVED:", data)
                         bridge.update(data)
-                        
+
                     except (json.JSONDecodeError, KeyError):
                         pass
 
@@ -79,5 +90,15 @@ class TelemetrySubscriber:
                 print(f"[TelemetrySubscriber] Error: {e}")
                 time.sleep(1)
 
-
 subscriber = TelemetrySubscriber()
+
+if __name__ == "__main__":
+    subscriber.start()
+
+    try:
+        while True:
+            import time
+            time.sleep(1)
+    except KeyboardInterrupt:
+        subscriber.stop()
+        print("Subscriber stopped.")

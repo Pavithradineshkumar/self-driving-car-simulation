@@ -24,9 +24,17 @@ class VideoStream:
         self._running = False
 
     def start(self):
-        self.cap      = cv2.VideoCapture(self.source)
+        if self.source is None:
+           print("[VideoStream] Camera disabled.")
+           return
+
+        self.cap = cv2.VideoCapture(self.source)
         self._running = True
-        t = threading.Thread(target=self._capture_loop, daemon=True)
+
+        t = threading.Thread(
+            target=self._capture_loop,
+            daemon=True
+        )
         t.start()
 
     def _capture_loop(self):
@@ -55,4 +63,4 @@ class VideoStream:
 
 
 # Singleton video stream
-video_stream = VideoStream(source=0)
+video_stream = VideoStream(source=None)
