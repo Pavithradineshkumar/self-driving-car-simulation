@@ -8,7 +8,7 @@ from phase5_autonomous.constants       import (
     MAX_STEER_CORRECTION, SPEED_CRUISE,
     GRID_COLS, GRID_ROWS
 )
-
+from phase9_intelligence.emergency_system import EmergencySystem
 
 class AutonomousDriver:
     """
@@ -35,6 +35,8 @@ class AutonomousDriver:
         self.planner   = AStarPlanner()
         self.grid      = OccupancyGrid(frame_width, frame_height)
 
+        self.emergency_system = EmergencySystem()
+
         self.current_speed = 0.0
         self.current_path  = []
 
@@ -50,6 +52,18 @@ class AutonomousDriver:
         """
         # ── 1. Behavior decision ─────────────────────────────────
         state, target_speed, should_avoid = self.behavior.update(perception)
+        nearest_distance = perception.get(
+          "nearest_object_distance",
+           999
+        )
+
+        emergency_info = self.emergency_system.evaluate(
+          nearest_distance
+        )
+
+        if emergency_info["emergency"]:
+           target_speed = 0.0
+           state = "EMERGENCY_BRAKE"
 
         brake    = (target_speed == 0.0)
         throttle = 0.0
@@ -107,6 +121,7 @@ class AutonomousDriver:
 
         debug = {
             "state":        state,
+            "emergency": emergency_info["emergency"],
             "target_speed": round(target_speed, 2),
             "actual_speed": round(self.current_speed, 2),
             "steer":        round(steer, 3),

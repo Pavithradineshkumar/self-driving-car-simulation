@@ -1,4 +1,7 @@
+from math import dist
+
 import cv2
+from matplotlib.pylab import det
 
 # Package-qualified imports — Python always finds the right module
 from phase3_lane_detection.lane_detector     import LaneDetector
@@ -47,10 +50,24 @@ class PerceptionPipeline:
         # ── 4. Generate plain-English warnings ──────────────────
         warnings = self._generate_warnings(lane_meta, detections)
 
+        nearest_distance = None
+
+        for det in detections:
+            dist = det.get("distance_m")
+
+            if dist is None:
+                continue
+
+            if nearest_distance is None:
+                nearest_distance = dist
+            else:
+                nearest_distance = min(nearest_distance, dist)
+
         return annotated, {
             "lanes":    lane_meta,
             "objects":  detections,
             "warnings": warnings,
+            "nearest_object_distance": nearest_distance,
         }
 
     # ── Private helpers ─────────────────────────────────────────
