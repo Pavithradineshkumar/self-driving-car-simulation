@@ -44,6 +44,11 @@ class DataBridge:
             # Warnings
             "warnings":       [],
 
+            # Phase 9 Intelligence
+            "emergency": False,
+            "decision": "DRIVE",
+            "nearest_distance": None,
+
             # RL agent
             "epsilon":        1.0,
             "episode":        0,
