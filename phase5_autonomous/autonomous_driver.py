@@ -60,6 +60,12 @@ class AutonomousDriver:
         """
         # ── 1. Behavior decision ─────────────────────────────────
         state, target_speed, should_avoid = self.behavior.update(perception)
+
+        # Phase 9.3 Simulation
+
+        self.current_light = self.traffic_detector.detect("RED")
+        self.current_speed_limit = self.speed_detector.detect(40)
+
         nearest_distance = perception.get(
           "nearest_object_distance",
            999
@@ -75,6 +81,21 @@ class AutonomousDriver:
 
         brake    = (target_speed == 0.0)
         throttle = 0.0
+
+        if self.current_light == "RED":
+            target_speed = 0
+            state = "TRAFFIC_LIGHT_STOP"
+            brake = True
+
+        elif self.current_light == "YELLOW":
+            target_speed = min(target_speed, 20)
+            state = "TRAFFIC_LIGHT_SLOW"
+
+        else:
+            target_speed = min(
+            target_speed,
+            self.current_speed_limit
+        )
 
         # ── 2. Speed PID ─────────────────────────────────────────
         if not brake:
@@ -129,6 +150,8 @@ class AutonomousDriver:
 
         debug = {
             "state":        state,
+            "traffic_light": self.current_light,
+            "speed_limit": self.current_speed_limit,
             "emergency": emergency_info["emergency"],
             "target_speed": round(target_speed, 2),
             "actual_speed": round(self.current_speed, 2),
