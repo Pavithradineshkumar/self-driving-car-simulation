@@ -1,3 +1,5 @@
+from doctest import debug
+
 import cv2
 import time
 import sys
@@ -108,6 +110,26 @@ def main():
                     (cx - 180, cy + 24),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.5,
                     (200, 200, 200), 1, cv2.LINE_AA)
+
+        cv2.putText(
+            frame,
+            f"Traffic Light : {debug.get('traffic_light', 'UNKNOWN')}",
+            (20, 210),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (0, 255, 255),
+            2
+        )
+
+        cv2.putText(
+            frame,
+            f"Speed Limit : {debug.get('speed_limit', '--')}",
+            (20, 235),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (255, 255, 255),
+            2
+        )
 
         cv2.imshow("Phase 5 — Autonomous Navigation", annotated)
 
