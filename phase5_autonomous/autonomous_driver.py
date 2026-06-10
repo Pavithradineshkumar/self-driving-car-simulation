@@ -1,3 +1,4 @@
+from phase4_object_detection import perception
 from phase5_autonomous.pid_controller  import PIDController
 from phase5_autonomous.path_planner    import AStarPlanner
 from phase5_autonomous.behavior_planner import BehaviorPlanner
@@ -11,6 +12,10 @@ from phase5_autonomous.constants       import (
 from phase9_intelligence.emergency_system import EmergencySystem
 from phase9_intelligence.traffic_light_detector import TrafficLightDetector
 from phase9_intelligence.speed_sign_detector import SpeedSignDetector
+from phase10_adas.adaptive_cruise import AdaptiveCruiseControl
+from phase10_adas.lane_departure import LaneDepartureWarning
+from phase10_adas.collision_predictor import CollisionPredictor
+from phase10_adas.safety_score import SafetyScore
 
 class AutonomousDriver:
     """
@@ -48,6 +53,12 @@ class AutonomousDriver:
         self.current_light = "GREEN"
         self.current_speed_limit = 60
 
+        self.acc = AdaptiveCruiseControl()
+        self.ldw = LaneDepartureWarning()
+        self.cp  = CollisionPredictor()
+
+        self.safety_score = SafetyScore()
+
     def decide(self, perception):
         """
         perception : dict from PerceptionPipeline.process()
@@ -63,7 +74,7 @@ class AutonomousDriver:
 
         # Phase 9.3 Simulation
 
-        self.current_light = self.traffic_detector.detect("RED")
+        self.current_light = self.traffic_detector.detect("GREEN")
         self.current_speed_limit = self.speed_detector.detect(40)
 
         nearest_distance = perception.get(
@@ -71,8 +82,25 @@ class AutonomousDriver:
            999
         )
 
+        acc_speed = self.acc.get_target_speed(nearest_distance)
+        target_speed = min(target_speed, acc_speed)
+
         emergency_info = self.emergency_system.evaluate(
           nearest_distance
+        )
+
+        lane_offset = perception["lanes"].get("center_offset", 0)
+        lane_warning = self.ldw.check(lane_offset)
+
+        collision_state = self.cp.predict(
+            nearest_distance,
+            max(self.current_speed, 1)
+        )
+
+        score = self.safety_score.calculate(
+            collision_state,
+            lane_warning,
+            emergency_info["emergency"]
         )
 
         if emergency_info["emergency"]:
@@ -162,6 +190,10 @@ class AutonomousDriver:
             
             "emergency": emergency_info["emergency"],
             "nearest_distance": nearest_distance,
+            "acc_speed": acc_speed,
+            "lane_warning": lane_warning,
+            "collision_state": collision_state,
+            "safety_score": score,
         }
 
         return steer, throttle, brake, debug

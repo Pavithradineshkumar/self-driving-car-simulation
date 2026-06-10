@@ -131,6 +131,46 @@ def main():
             2
         )
 
+        cv2.putText(
+            annotated,
+            f"Collision: {debug.get('collision_state','SAFE')}",
+            (20, 260),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (0, 0, 255),
+            2
+        )
+
+        cv2.putText(
+            annotated,
+            f"Lane Warning: {debug.get('lane_warning', False)}",
+            (20, 290),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (0, 255, 255),
+            2
+        )
+
+        cv2.putText(
+            annotated,
+            f"ACC Speed: {debug.get('acc_speed', 0)}",
+            (20, 320),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (255, 255, 255),
+            2
+        )
+
+        cv2.putText(
+            annotated,
+            f"Safety Score: {debug.get('safety_score',100)}",
+            (20, 350),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (0, 255, 0),
+            2
+        )
+
         cv2.imshow("Phase 5 — Autonomous Navigation", annotated)
 
         key = cv2.waitKey(1) & 0xFF
@@ -147,4 +187,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main() 
