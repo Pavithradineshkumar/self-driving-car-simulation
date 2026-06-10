@@ -9,6 +9,8 @@ from phase5_autonomous.constants       import (
     GRID_COLS, GRID_ROWS
 )
 from phase9_intelligence.emergency_system import EmergencySystem
+from phase9_intelligence.traffic_light_detector import TrafficLightDetector
+from phase9_intelligence.speed_sign_detector import SpeedSignDetector
 
 class AutonomousDriver:
     """
@@ -39,6 +41,12 @@ class AutonomousDriver:
 
         self.current_speed = 0.0
         self.current_path  = []
+
+        self.traffic_detector = TrafficLightDetector()
+        self.speed_detector = SpeedSignDetector()
+
+        self.current_light = "GREEN"
+        self.current_speed_limit = 60
 
     def decide(self, perception):
         """
