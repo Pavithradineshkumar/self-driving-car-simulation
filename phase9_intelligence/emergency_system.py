@@ -6,6 +6,12 @@ class EmergencySystem:
 
     def evaluate(self, object_distance):
 
+        if object_distance is None:
+            return {
+                "emergency": False,
+                "brake": False
+            }
+
         if object_distance < self.SAFE_DISTANCE:
             return {
                 "emergency": True,

@@ -128,6 +128,9 @@ class AutonomousDriver:
             "throttle":     round(throttle, 3),
             "brake":        brake,
             "path_cells":   len(self.current_path),
+            
+            "emergency": emergency_info["emergency"],
+            "nearest_distance": nearest_distance,
         }
 
         return steer, throttle, brake, debug

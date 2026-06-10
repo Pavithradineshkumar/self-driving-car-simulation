@@ -1,28 +1,25 @@
+from phase9_intelligence.emergency_system import EmergencySystem
+from phase9_intelligence.decision_engine import DecisionEngine
+
+
 class IntelligenceController:
 
     def __init__(self):
-        self.traffic_light = "GREEN"
-        self.speed_limit = 60
-        self.emergency = False
+        self.emergency_system = EmergencySystem()
+        self.decision_engine = DecisionEngine()
 
-    def update(self,
-               traffic_light=None,
-               speed_limit=None,
-               emergency=None):
+    def process(self, distance):
 
-        if traffic_light is not None:
-            self.traffic_light = traffic_light
+        emergency = self.emergency_system.evaluate(distance)
 
-        if speed_limit is not None:
-            self.speed_limit = speed_limit
-
-        if emergency is not None:
-            self.emergency = emergency
-
-    def get_state(self):
+        decision = self.decision_engine.decide(distance)
 
         return {
-            "traffic_light": self.traffic_light,
-            "speed_limit": self.speed_limit,
-            "emergency": self.emergency
+            "emergency": emergency["emergency"],
+            "brake": emergency["brake"],
+            "decision": decision,
+            "nearest_distance": distance
         }
+
+    def update(self, distance):
+        return self.process(distance)

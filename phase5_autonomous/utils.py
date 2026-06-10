@@ -44,7 +44,24 @@ def draw_autonomous_hud(frame, debug, perception, fps):
         cv2.putText(frame, text, (18, 36 + i * 24),
                     cv2.FONT_HERSHEY_SIMPLEX, 0.55,
                     color, 1, cv2.LINE_AA)
+        cv2.putText(frame,
+            f"Emergency : {debug.get('emergency', False)}",
+            (20, 170),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (0,255,255),
+            2
+        )
 
+        cv2.putText(
+            frame,
+            f"Distance : {debug.get('nearest_distance')}",
+            (20, 200),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.6,
+            (255,255,255),
+            2
+        )
 
 def draw_path(frame, path, grid):
     """Draw the A* planned path as dots on the frame."""

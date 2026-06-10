@@ -52,22 +52,23 @@ class PerceptionPipeline:
 
         nearest_distance = None
 
-        for det in detections:
-            dist = det.get("distance_m")
+        if detections:
+            distances = [
+                d["distance_m"]
+                for d in detections
+                if d["distance_m"] is not None
+            ]
 
-            if dist is None:
-                continue
-
-            if nearest_distance is None:
-                nearest_distance = dist
-            else:
-                nearest_distance = min(nearest_distance, dist)
+            if distances:
+                nearest_distance = min(distances)
 
         return annotated, {
-            "lanes":    lane_meta,
-            "objects":  detections,
-            "warnings": warnings,
-            "nearest_object_distance": nearest_distance,
+           "lanes": lane_meta,
+           "objects": detections,
+           "warnings": warnings,
+
+           # Phase 9.1
+           "nearest_object_distance": nearest_distance,
         }
 
     # ── Private helpers ─────────────────────────────────────────

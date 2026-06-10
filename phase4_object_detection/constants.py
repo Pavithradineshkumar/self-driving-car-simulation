@@ -13,7 +13,7 @@ FRAME_HEIGHT  = 540
 # yolov8n.pt = nano (fastest, ~6MB, auto-downloaded on first run)
 # yolov8s.pt = small (more accurate, ~22MB)
 YOLO_MODEL       = "yolov8n.pt"
-CONF_THRESHOLD   = 0.40        # Minimum confidence to show a box
+CONF_THRESHOLD   = 0.20        # Minimum confidence to show a box
 IOU_THRESHOLD    = 0.45        # NMS overlap threshold
 
 # ── COCO class IDs we care about ────────────────────────────────

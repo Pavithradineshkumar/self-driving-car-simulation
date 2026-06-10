@@ -57,6 +57,8 @@ class ObjectDetector:
             verbose = False          # Suppress per-frame console spam
         )
 
+        print("YOLO Boxes:", len(results[0].boxes))
+
         detections = []
 
         for box in results[0].boxes:

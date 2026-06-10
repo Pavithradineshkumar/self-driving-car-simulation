@@ -3,6 +3,7 @@ import time
 import sys
 import os
 
+from phase4_object_detection import perception
 from phase4_object_detection.perception  import PerceptionPipeline
 from phase4_object_detection.constants   import (
     VIDEO_SOURCE, FRAME_WIDTH, FRAME_HEIGHT
@@ -41,26 +42,44 @@ def main():
         # ── Perception (YOLO every 2nd frame for CPU performance) ─
         run_yolo  = (frame_num % 2 == 0)
         annotated, perception = pipeline.process(frame, run_detection=run_yolo)
+        print("Objects:", len(perception["objects"]))
+        print("Nearest:", perception.get("nearest_object_distance"))
 
         # ── Autonomous decision ──────────────────────────────────
         steer, throttle, brake, debug = driver.decide(perception)
 
         bridge.update({
-            "speed": 5.0,
+            "speed": debug.get("actual_speed", 0.0),
             "steer": steer,
             "throttle": throttle,
             "brake": brake,
-            "behavior_state": "CRUISE",
-            "warnings": [],
+
+            "behavior_state": debug.get("state", "CRUISE"),
+            "target_speed": debug.get("target_speed", 0.0),
+
+            "warnings": perception.get("warnings", []),
+
+            # Phase 9.1
+            "emergency": debug.get("emergency", False),
+            "decision": debug.get("state", "DRIVE"),
+            "nearest_distance": perception.get("nearest_object_distance")
         })
 
         publisher.publish({
-            "speed": 5.0,
+            "speed": debug.get("actual_speed", 0.0),
             "steer": round(steer, 3),
             "throttle": round(throttle, 3),
             "brake": brake,
+
             "behavior_state": debug.get("state", "CRUISE"),
-            "warnings": perception.get("warnings", [])
+            "target_speed": debug.get("target_speed", 0.0),
+            
+            "warnings": perception.get("warnings", []),
+
+            # Phase 9.1
+            "emergency": debug.get("emergency", False),
+            "decision": debug.get("state", "DRIVE"),
+            "nearest_distance": perception.get("nearest_object_distance")
         })
 
         # ── Visualize path + grid ────────────────────────────────

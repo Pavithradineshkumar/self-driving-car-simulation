@@ -1,3 +1,8 @@
-from phase9_intelligence.driving_modes import DrivingModes
+from phase9_intelligence.decision_engine import DecisionEngine
 
-print(DrivingModes.get_mode())
+engine = DecisionEngine()
+
+print(engine.decide(20))
+print(engine.decide(12))
+print(engine.decide(6))
+print(engine.decide(3))

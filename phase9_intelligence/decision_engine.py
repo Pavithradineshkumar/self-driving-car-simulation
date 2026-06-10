@@ -1,21 +1,17 @@
-# phase9_intelligence/decision_engine.py
-
 class DecisionEngine:
 
-    def decide(
-        self,
-        traffic_light,
-        speed_limit,
-        emergency
-    ):
+    def decide(self, distance):
 
-        if emergency:
+        if distance is None:
+            return "DRIVE"
+
+        if distance < 5:
             return "EMERGENCY_BRAKE"
 
-        if traffic_light == "RED":
+        if distance < 8:
             return "STOP"
 
-        if traffic_light == "YELLOW":
-            return "SLOW"
+        if distance < 15:
+            return "SLOW_DOWN"
 
         return "DRIVE"
