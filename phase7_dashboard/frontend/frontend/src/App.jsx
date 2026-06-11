@@ -5,11 +5,11 @@ import BehaviorState from "./components/BehaviorState"
 import AnalyticsChart from "./components/AnalyticsChart"
 import ThreeSimulation from "./components/ThreeSimulation"
 import WarningPanel from "./components/WarningPanel"
-
 import { useWebSocket } from "./hooks/useWebSocket"
 
 export default function App() {
   const { data, status } = useWebSocket("ws://localhost:8000/ws")
+  console.log(data)
 
   return (
     <div style={{ padding: "20px" }}>
@@ -18,6 +18,14 @@ export default function App() {
       <p>
         WebSocket Status: {status}
       </p>
+
+      <h2 style={{ color: "red" }}>
+        SPEED = {data?.speed}
+      </h2>
+
+      <h2 style={{ color: "blue" }}>
+        STATE = {data?.behavior_state}
+      </h2>
 
       <VideoFeed />
 
@@ -60,6 +68,8 @@ export default function App() {
       <WarningPanel
         warnings={data?.warnings || []}
       />
+
+      <hr />
     </div>
   )
 }

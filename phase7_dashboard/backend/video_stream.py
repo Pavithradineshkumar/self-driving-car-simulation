@@ -63,4 +63,4 @@ class VideoStream:
 
 
 # Singleton video stream
-video_stream = VideoStream(source=None)
+video_stream = VideoStream(source=0)
