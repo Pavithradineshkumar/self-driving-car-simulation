@@ -1,0 +1,11 @@
+[
+    {
+        "event": "lane_detected"
+    },
+    {
+        "event": "obstacle_detected"
+    },
+    {
+        "event": "emergency_brake"
+    }
+]

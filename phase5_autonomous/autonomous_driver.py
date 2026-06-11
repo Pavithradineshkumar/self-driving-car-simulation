@@ -16,6 +16,8 @@ from phase10_adas.adaptive_cruise import AdaptiveCruiseControl
 from phase10_adas.lane_departure import LaneDepartureWarning
 from phase10_adas.collision_predictor import CollisionPredictor
 from phase10_adas.safety_score import SafetyScore
+from phase11_analytics.analytics_engine import AnalyticsEngine
+from phase11_analytics.alert_manager import AlertManager
 
 class AutonomousDriver:
     """
@@ -58,6 +60,8 @@ class AutonomousDriver:
         self.cp  = CollisionPredictor()
 
         self.safety_score = SafetyScore()
+        self.analytics = AnalyticsEngine()
+        self.alert_manager = AlertManager()
 
     def decide(self, perception):
         """
@@ -82,6 +86,9 @@ class AutonomousDriver:
            999
         )
 
+        if nearest_distance is None:
+            nearest_distance = 999
+
         acc_speed = self.acc.get_target_speed(nearest_distance)
         target_speed = min(target_speed, acc_speed)
 
@@ -101,6 +108,12 @@ class AutonomousDriver:
             collision_state,
             lane_warning,
             emergency_info["emergency"]
+        )
+
+        alerts = self.alert_manager.check(
+            lane_warning=lane_warning,
+            nearest_distance=nearest_distance,
+            camera_ok=True
         )
 
         if emergency_info["emergency"]:
@@ -175,6 +188,13 @@ class AutonomousDriver:
         else:
             self.current_speed = min(target_speed,
                                      self.current_speed + throttle * 0.5)
+            
+        self.analytics.update(
+            self.current_speed,
+            steer,
+            throttle,
+            brake
+        )
 
         debug = {
             "state":        state,
@@ -194,6 +214,8 @@ class AutonomousDriver:
             "lane_warning": lane_warning,
             "collision_state": collision_state,
             "safety_score": score,
+            "alerts": alerts,
+            "telemetry": self.analytics.latest(),
         }
 
         return steer, throttle, brake, debug
