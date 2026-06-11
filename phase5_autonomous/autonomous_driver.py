@@ -18,6 +18,7 @@ from phase10_adas.collision_predictor import CollisionPredictor
 from phase10_adas.safety_score import SafetyScore
 from phase11_analytics.analytics_engine import AnalyticsEngine
 from phase11_analytics.alert_manager import AlertManager
+from phase11_analytics.monitor import SystemMonitor
 
 class AutonomousDriver:
     """
@@ -62,6 +63,7 @@ class AutonomousDriver:
         self.safety_score = SafetyScore()
         self.analytics = AnalyticsEngine()
         self.alert_manager = AlertManager()
+        self.monitor = SystemMonitor()
 
     def decide(self, perception):
         """
@@ -196,6 +198,8 @@ class AutonomousDriver:
             brake
         )
 
+        system_stats = self.monitor.get_stats()
+
         debug = {
             "state":        state,
             "traffic_light": self.current_light,
@@ -215,6 +219,9 @@ class AutonomousDriver:
             "collision_state": collision_state,
             "safety_score": score,
             "alerts": alerts,
+            "cpu": system_stats["cpu"],
+            "ram": system_stats["ram"],
+            "backend": system_stats["backend"],
             "telemetry": self.analytics.latest(),
         }
 
