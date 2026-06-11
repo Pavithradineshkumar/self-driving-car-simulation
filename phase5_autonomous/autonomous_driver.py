@@ -19,6 +19,7 @@ from phase10_adas.safety_score import SafetyScore
 from phase11_analytics.analytics_engine import AnalyticsEngine
 from phase11_analytics.alert_manager import AlertManager
 from phase11_analytics.monitor import SystemMonitor
+from phase11_analytics.telemetry_recorder import TelemetryRecorder
 
 class AutonomousDriver:
     """
@@ -64,6 +65,7 @@ class AutonomousDriver:
         self.analytics = AnalyticsEngine()
         self.alert_manager = AlertManager()
         self.monitor = SystemMonitor()
+        self.telemetry = TelemetryRecorder()
 
     def decide(self, perception):
         """
@@ -190,6 +192,14 @@ class AutonomousDriver:
         else:
             self.current_speed = min(target_speed,
                                      self.current_speed + throttle * 0.5)
+            
+        # Phase 11.5 Telemetry Recording
+        self.telemetry.record(
+            speed=self.current_speed,
+            steer=steer,
+            throttle=throttle,
+            brake=brake
+        )
             
         self.analytics.update(
             self.current_speed,
