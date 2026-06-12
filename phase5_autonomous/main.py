@@ -16,6 +16,7 @@ from phase5_autonomous.utils             import (
 )
 
 from phase7_dashboard.backend.data_bridge import bridge
+from phase7_dashboard.backend.frame_bridge import frame_bridge
 from phase8_deployment.ipc.publisher import publisher
 
 def main():
@@ -170,6 +171,8 @@ def main():
             (0, 255, 0),
             2
         )
+
+        frame_bridge.update(annotated)
 
         cv2.imshow("Phase 5 — Autonomous Navigation", annotated)
 

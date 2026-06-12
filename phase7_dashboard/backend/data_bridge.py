@@ -3,6 +3,7 @@
 import threading
 import time
 import numpy as np
+from collections import deque
 
 class DataBridge:
     """
@@ -15,6 +16,10 @@ class DataBridge:
 
     def __init__(self):
         self._lock = threading.Lock()
+
+        self.speed_history = deque(maxlen=100)
+        self.reward_history = deque(maxlen=100)
+
         self._state = self._default_state()
 
     def _default_state(self):
@@ -56,8 +61,8 @@ class DataBridge:
             "q_values":       [0.0, 0.0, 0.0, 0.0],
 
             # Analytics history (last 200 frames)
-            "speed_history":  [],
-            "reward_history": [],
+            "speed_history":  list(self.speed_history),
+            "reward_history": list(self.reward_history),
             "loss_history":   [],
 
             # Timestamp
@@ -69,11 +74,27 @@ class DataBridge:
         with self._lock:
             self._state.update(patch)
             self._state["ts"] = time.time()
+            self.speed_history.append(
+                self._state.get("speed",0)
+            )
 
             # Keep history arrays bounded
             for key in ("speed_history", "reward_history", "loss_history"):
                 if key in patch:
                     self._state[key] = self._state[key][-200:]
+
+            reward = 100
+
+            if self._state.get("warnings"):
+                reward -= 10
+
+            if self._state.get("emergency"):
+                reward -= 25
+
+            self.reward_history.append(reward)
+
+            self._state["speed_history"] = list(self.speed_history)
+            self._state["reward_history"] = list(self.reward_history)
 
     def snapshot(self) -> dict:
         """Return a full copy of current state (safe for JSON)."""

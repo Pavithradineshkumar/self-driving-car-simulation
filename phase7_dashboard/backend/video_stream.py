@@ -4,7 +4,7 @@ import cv2
 import threading
 import numpy as np
 from phase7_dashboard.backend.constants import MJPEG_QUALITY
-
+from phase7_dashboard.backend.frame_bridge import frame_bridge
 
 class VideoStream:
     """
@@ -46,15 +46,18 @@ class VideoStream:
                     self._frame = frame
 
     def get_frame(self):
-        """Return current frame as JPEG bytes, or None."""
-        with self._lock:
-            if self._frame is None:
-                return None
-            _, buf = cv2.imencode(
-                '.jpg', self._frame,
-                [cv2.IMWRITE_JPEG_QUALITY, MJPEG_QUALITY]
-            )
-            return buf.tobytes()
+        frame = frame_bridge.get()
+
+        if frame is None:
+            return None
+
+        _, buf = cv2.imencode(
+            ".jpg",
+            frame,
+            [cv2.IMWRITE_JPEG_QUALITY, MJPEG_QUALITY]
+        )
+
+        return buf.tobytes()
 
     def stop(self):
         self._running = False
@@ -63,4 +66,4 @@ class VideoStream:
 
 
 # Singleton video stream
-video_stream = VideoStream(source=0)
+video_stream = VideoStream(source=None)

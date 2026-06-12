@@ -21061,5 +21061,5983 @@
         "steer": 4.0,
         "throttle": 0.038104526632980126,
         "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:44.299473",
+        "speed": 0.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:44.787811",
+        "speed": 1.0,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:44.888484",
+        "speed": 1.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.073797",
+        "speed": 2.0,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.171316",
+        "speed": 2.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.334885",
+        "speed": 2.975,
+        "steer": 0.0,
+        "throttle": 0.95,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.456308",
+        "speed": 3.3895,
+        "steer": 0.0,
+        "throttle": 0.8289999999999998,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.645985",
+        "speed": 3.75139,
+        "steer": 0.0,
+        "throttle": 0.72378,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.744514",
+        "speed": 4.0665548,
+        "steer": 0.0,
+        "throttle": 0.6303296,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:45.920735",
+        "speed": 4.340280236,
+        "steer": 0.0,
+        "throttle": 0.5474508720000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.027569",
+        "speed": 4.57728143952,
+        "steer": 0.0,
+        "throttle": 0.4740024070400001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.196479",
+        "speed": 4.7817641611264,
+        "steer": 0.0,
+        "throttle": 0.40896544321280004,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.304673",
+        "speed": 4.957478615734048,
+        "steer": 0.0,
+        "throttle": 0.35142890921529596,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.470418",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.3005782000255989,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.572505",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.29448143826289797,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.739349",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.2966075074761956,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:46.842637",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.2966075074761956,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.012736",
+        "speed": 4.6,
+        "steer": 0.0,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.116436",
+        "speed": 4.662,
+        "steer": 0.0,
+        "throttle": 0.12400000000000011,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.282933",
+        "speed": 4.71484,
+        "steer": -4.0,
+        "throttle": 0.10568,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.391529",
+        "speed": 4.7614088,
+        "steer": -2.9699999999999998,
+        "throttle": 0.0931376000000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.544510",
+        "speed": 4.802342016,
+        "steer": -3.05,
+        "throttle": 0.08186643200000003,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.649812",
+        "speed": 4.83826442912,
+        "steer": -3.13,
+        "throttle": 0.07184482624000003,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.829125",
+        "speed": 4.869732428198399,
+        "steer": -3.15,
+        "throttle": 0.06293599815680012,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:47.933048",
+        "speed": 4.897242925625087,
+        "steer": -3.19,
+        "throttle": 0.05502099485337623,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.109025",
+        "speed": 4.92123957135094,
+        "steer": -3.23,
+        "throttle": 0.047993291451704626,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.240439",
+        "speed": 4.942118368653681,
+        "steer": -3.27,
+        "throttle": 0.04175759460548117,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.405124",
+        "speed": 4.960232700728319,
+        "steer": -3.31,
+        "throttle": 0.03622866414927769,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.510258",
+        "speed": 4.975897831118823,
+        "steer": -3.41,
+        "throttle": 0.031330260781008014,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.683329",
+        "speed": 4.989394932837261,
+        "steer": -3.37,
+        "throttle": 0.02699420343687532,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.807400",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.023159525026574847,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:48.962917",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.020122606605537944,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.075520",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.260845",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.375265",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.552449",
+        "speed": 5.0,
+        "steer": -3.4299999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.648722",
+        "speed": 5.0,
+        "steer": -3.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.834962",
+        "speed": 5.0,
+        "steer": -3.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:49.938763",
+        "speed": 5.0,
+        "steer": -3.4499999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:50.119618",
+        "speed": 5.0,
+        "steer": -3.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:50.226668",
+        "speed": 5.0,
+        "steer": -3.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:50.400969",
+        "speed": 5.0,
+        "steer": -3.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:50.508854",
+        "speed": 5.0,
+        "steer": -3.59,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:50.718772",
+        "speed": 5.0,
+        "steer": -3.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:50.866638",
+        "speed": 5.0,
+        "steer": -3.63,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:51.082329",
+        "speed": 5.0,
+        "steer": -3.61,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:51.231662",
+        "speed": 5.0,
+        "steer": -3.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:51.525549",
+        "speed": 5.0,
+        "steer": -3.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:51.683605",
+        "speed": 5.0,
+        "steer": -3.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:51.841267",
+        "speed": 5.0,
+        "steer": -3.53,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:51.968085",
+        "speed": 5.0,
+        "steer": -3.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:52.147203",
+        "speed": 5.0,
+        "steer": -3.3699999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:52.281140",
+        "speed": 5.0,
+        "steer": -3.29,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:52.685822",
+        "speed": 5.0,
+        "steer": -3.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:52.951420",
+        "speed": 5.0,
+        "steer": -3.17,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:53.418612",
+        "speed": 5.0,
+        "steer": -3.09,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:53.634988",
+        "speed": 5.0,
+        "steer": -3.07,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:54.435858",
+        "speed": 5.0,
+        "steer": -2.9099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:54.679131",
+        "speed": 5.0,
+        "steer": -2.8499999999999996,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:55.124127",
+        "speed": 5.0,
+        "steer": -2.77,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:55.361779",
+        "speed": 5.0,
+        "steer": -2.75,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:55.758380",
+        "speed": 5.0,
+        "steer": -2.65,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:55.909751",
+        "speed": 5.0,
+        "steer": -2.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:56.153190",
+        "speed": 5.0,
+        "steer": -2.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:56.303164",
+        "speed": 5.0,
+        "steer": -2.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:56.556677",
+        "speed": 5.0,
+        "steer": -2.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:56.701366",
+        "speed": 5.0,
+        "steer": -2.4299999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:57.057954",
+        "speed": 5.0,
+        "steer": -2.3899999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:57.314832",
+        "speed": 5.0,
+        "steer": -2.3499999999999996,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:57.745237",
+        "speed": 5.0,
+        "steer": -2.3699999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:58.015775",
+        "speed": 5.0,
+        "steer": -2.31,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:58.450644",
+        "speed": 5.0,
+        "steer": -2.33,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:58.718124",
+        "speed": 5.0,
+        "steer": -2.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:59.173073",
+        "speed": 5.0,
+        "steer": -2.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:59.444705",
+        "speed": 5.0,
+        "steer": -2.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:04:59.872260",
+        "speed": 5.0,
+        "steer": -2.63,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:00.156388",
+        "speed": 5.0,
+        "steer": -2.69,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:00.638729",
+        "speed": 5.0,
+        "steer": -2.71,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:00.885891",
+        "speed": 5.0,
+        "steer": -2.75,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:01.327532",
+        "speed": 5.0,
+        "steer": -2.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:01.595530",
+        "speed": 5.0,
+        "steer": -2.61,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:02.056663",
+        "speed": 5.0,
+        "steer": -2.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:02.328858",
+        "speed": 5.0,
+        "steer": -2.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:02.771291",
+        "speed": 5.0,
+        "steer": -2.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:03.034306",
+        "speed": 5.0,
+        "steer": -2.21,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:03.479278",
+        "speed": 5.0,
+        "steer": -2.25,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:03.744432",
+        "speed": 5.0,
+        "steer": -2.19,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:04.189952",
+        "speed": 5.0,
+        "steer": -2.15,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:04.457323",
+        "speed": 5.0,
+        "steer": -2.11,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:04.867855",
+        "speed": 5.0,
+        "steer": -2.01,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:05.145555",
+        "speed": 5.0,
+        "steer": -1.93,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:05.373558",
+        "speed": 5.0,
+        "steer": -1.85,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:05.490629",
+        "speed": 5.0,
+        "steer": -1.83,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:05.680383",
+        "speed": 4.6,
+        "steer": -1.73,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:05:05.818864",
+        "speed": 4.662,
+        "steer": -1.71,
+        "throttle": 0.12400000000000011,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:06.212597",
+        "speed": 4.262,
+        "steer": -1.61,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:05:06.436794",
+        "speed": 4.37639,
+        "steer": -1.59,
+        "throttle": 0.22878000000000012,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:06.897105",
+        "speed": 4.4738798,
+        "steer": -1.55,
+        "throttle": 0.19497960000000006,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:07.161810",
+        "speed": 4.559799236,
+        "steer": -1.51,
+        "throttle": 0.1718388720000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:07.638851",
+        "speed": 4.63532101952,
+        "steer": -1.53,
+        "throttle": 0.15104356704,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:07.917313",
+        "speed": 4.7015978717264,
+        "steer": -1.47,
+        "throttle": 0.13255370441279998,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:08.335170",
+        "speed": 4.759656330026048,
+        "steer": -1.4300000000000002,
+        "throttle": 0.11611691659929602,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:08.602970",
+        "speed": 4.810413197778288,
+        "steer": -1.4500000000000002,
+        "throttle": 0.10151373550447874,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:09.006094",
+        "speed": 4.854687009142485,
+        "steer": -1.4500000000000002,
+        "throttle": 0.08854762272839439,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:09.283951",
+        "speed": 4.893208390166041,
+        "steer": -1.3900000000000001,
+        "throttle": 0.07704276204711236,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:09.705231",
+        "speed": 4.493208390166041,
+        "steer": -1.4100000000000001,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:05:09.974590",
+        "speed": 4.5717610896903045,
+        "steer": -1.4100000000000001,
+        "throttle": 0.15710539904852733,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:10.408743",
+        "speed": 4.638708261349371,
+        "steer": -1.53,
+        "throttle": 0.13389434331813202,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:10.660071",
+        "speed": 4.69770995414946,
+        "steer": -1.55,
+        "throttle": 0.11800338560017826,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:11.125897",
+        "speed": 4.749571480230262,
+        "steer": -1.59,
+        "throttle": 0.10372305216160593,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:11.395084",
+        "speed": 4.7950844241657755,
+        "steer": -1.6300000000000001,
+        "throttle": 0.09102588787102683,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:11.868890",
+        "speed": 4.8349537189437655,
+        "steer": -1.43,
+        "throttle": 0.07973858955597954,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:12.156747",
+        "speed": 4.869808942139276,
+        "steer": -1.25,
+        "throttle": 0.06971044639102107,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:12.580718",
+        "speed": 4.900212188934326,
+        "steer": -1.21,
+        "throttle": 0.06080649359009918,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:12.872499",
+        "speed": 4.926665187175458,
+        "steer": -1.1300000000000001,
+        "throttle": 0.052905996482263976,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:13.276230",
+        "speed": 4.949615665958391,
+        "steer": -0.99,
+        "throttle": 0.04590095756586557,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:13.425625",
+        "speed": 4.969463057580547,
+        "steer": -0.93,
+        "throttle": 0.039694783244311686,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:13.615270",
+        "speed": 4.986563602350496,
+        "steer": -0.7300000000000001,
+        "throttle": 0.03420108953989843,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:13.728378",
+        "speed": 5.0,
+        "steer": -0.6900000000000001,
+        "throttle": 0.029342632428019013,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:13.912547",
+        "speed": 5.0,
+        "steer": -0.61,
+        "throttle": 0.025494920489190075,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.017866",
+        "speed": 5.0,
+        "steer": -0.5900000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.201215",
+        "speed": 5.0,
+        "steer": -0.55,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.311228",
+        "speed": 5.0,
+        "steer": -0.51,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.488084",
+        "speed": 5.0,
+        "steer": -0.47,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.599372",
+        "speed": 5.0,
+        "steer": -0.43,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.789710",
+        "speed": 5.0,
+        "steer": -0.38999999999999996,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:14.898584",
+        "speed": 5.0,
+        "steer": -0.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.071067",
+        "speed": 5.0,
+        "steer": -0.37,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.182149",
+        "speed": 5.0,
+        "steer": -0.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.357248",
+        "speed": 5.0,
+        "steer": -0.33,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.491111",
+        "speed": 5.0,
+        "steer": -0.26999999999999996,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.665657",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.785625",
+        "speed": 5.0,
+        "steer": -0.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:15.961422",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.121655",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.291106",
+        "speed": 5.0,
+        "steer": -0.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.401278",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.569703",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.683077",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.862209",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:16.979101",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:17.156962",
+        "speed": 5.0,
+        "steer": -0.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:17.268160",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:17.440844",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:17.550159",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:17.723027",
+        "speed": 5.0,
+        "steer": 0.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:17.833454",
+        "speed": 5.0,
+        "steer": 0.194,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.008610",
+        "speed": 5.0,
+        "steer": 0.30100000000000005,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.133048",
+        "speed": 5.0,
+        "steer": 0.431,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.277435",
+        "speed": 5.0,
+        "steer": 0.625,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.381875",
+        "speed": 5.0,
+        "steer": 0.742,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.563993",
+        "speed": 5.0,
+        "steer": 0.76,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.679140",
+        "speed": 5.0,
+        "steer": 0.8800000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.880440",
+        "speed": 5.0,
+        "steer": 0.91,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:18.984164",
+        "speed": 5.0,
+        "steer": 1.01,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:19.162869",
+        "speed": 5.0,
+        "steer": 1.03,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:19.278636",
+        "speed": 5.0,
+        "steer": 1.1300000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:19.452553",
+        "speed": 5.0,
+        "steer": 1.09,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:19.567355",
+        "speed": 5.0,
+        "steer": 1.1500000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:19.728982",
+        "speed": 5.0,
+        "steer": 1.1900000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:19.844025",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.007781",
+        "speed": 5.0,
+        "steer": 1.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.109552",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.291334",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.402799",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.583535",
+        "speed": 5.0,
+        "steer": 1.27,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.688354",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.861469",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:20.980044",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:21.154467",
+        "speed": 5.0,
+        "steer": 1.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:21.269145",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:21.447367",
+        "speed": 5.0,
+        "steer": 1.1500000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:21.582499",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:21.782803",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:21.899577",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.076878",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.191538",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.364843",
+        "speed": 5.0,
+        "steer": 1.4100000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.480076",
+        "speed": 5.0,
+        "steer": 1.5100000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.653917",
+        "speed": 5.0,
+        "steer": 1.6300000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.763861",
+        "speed": 5.0,
+        "steer": 1.7500000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:22.948340",
+        "speed": 5.0,
+        "steer": 1.87,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:23.091435",
+        "speed": 5.0,
+        "steer": 1.9300000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:23.494906",
+        "speed": 5.0,
+        "steer": 1.9500000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:23.646925",
+        "speed": 5.0,
+        "steer": 1.99,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:23.842513",
+        "speed": 5.0,
+        "steer": 2.09,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:23.969025",
+        "speed": 5.0,
+        "steer": 2.11,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:24.147010",
+        "speed": 5.0,
+        "steer": 2.15,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:24.262674",
+        "speed": 5.0,
+        "steer": 2.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:24.448649",
+        "speed": 5.0,
+        "steer": 2.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:24.569546",
+        "speed": 5.0,
+        "steer": 2.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:24.741084",
+        "speed": 5.0,
+        "steer": 2.27,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:24.857147",
+        "speed": 5.0,
+        "steer": 2.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.023195",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.129749",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.296406",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.421625",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.599259",
+        "speed": 5.0,
+        "steer": 2.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.716923",
+        "speed": 5.0,
+        "steer": 2.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:25.907707",
+        "speed": 5.0,
+        "steer": 2.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:26.021293",
+        "speed": 5.0,
+        "steer": 2.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:26.202610",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:26.333251",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:26.502993",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:26.819078",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:27.231897",
+        "speed": 5.0,
+        "steer": 2.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:27.461742",
+        "speed": 5.0,
+        "steer": 2.3899999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:27.885838",
+        "speed": 5.0,
+        "steer": 2.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:28.127953",
+        "speed": 5.0,
+        "steer": 2.4699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:28.530953",
+        "speed": 5.0,
+        "steer": 2.57,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:28.788508",
+        "speed": 5.0,
+        "steer": 2.65,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:29.178812",
+        "speed": 5.0,
+        "steer": 2.67,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:29.544915",
+        "speed": 5.0,
+        "steer": 2.71,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:29.950333",
+        "speed": 5.0,
+        "steer": 2.69,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:30.212013",
+        "speed": 5.0,
+        "steer": 2.75,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:30.635709",
+        "speed": 5.0,
+        "steer": 2.79,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:30.800744",
+        "speed": 5.0,
+        "steer": 2.83,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:31.190313",
+        "speed": 5.0,
+        "steer": 2.9299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:31.445972",
+        "speed": 5.0,
+        "steer": 2.8899999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:31.852015",
+        "speed": 5.0,
+        "steer": 2.9499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:32.113745",
+        "speed": 5.0,
+        "steer": 2.9299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:32.515925",
+        "speed": 5.0,
+        "steer": 2.9899999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:32.779678",
+        "speed": 5.0,
+        "steer": 2.9699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:33.235942",
+        "speed": 5.0,
+        "steer": 2.9699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:33.466081",
+        "speed": 5.0,
+        "steer": 3.03,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:33.888743",
+        "speed": 5.0,
+        "steer": 3.07,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:34.145603",
+        "speed": 5.0,
+        "steer": 3.11,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:34.542201",
+        "speed": 5.0,
+        "steer": 3.15,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:34.810127",
+        "speed": 5.0,
+        "steer": 3.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:35.224314",
+        "speed": 5.0,
+        "steer": 3.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:35.496751",
+        "speed": 5.0,
+        "steer": 3.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:35.987590",
+        "speed": 5.0,
+        "steer": 3.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:36.265917",
+        "speed": 5.0,
+        "steer": 3.39,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:36.672918",
+        "speed": 5.0,
+        "steer": 3.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:36.945784",
+        "speed": 5.0,
+        "steer": 3.4699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:37.396571",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:37.681078",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:37.948593",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.064890",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.253364",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.364865",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.538255",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.649208",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.825382",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:38.946675",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.117738",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.234964",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.421214",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.528918",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.707972",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.808791",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:39.993580",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:40.102803",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:40.285051",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:40.404501",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:40.659642",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:40.802829",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:40.975742",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:41.093916",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:41.274816",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:41.393420",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:41.657199",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:41.802833",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:41.984721",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.105489",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.273892",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.383016",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.550690",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.683449",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.846308",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:42.968470",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:43.143239",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:43.261642",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:43.442171",
+        "speed": 5.0,
+        "steer": 3.51,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:43.556758",
+        "speed": 5.0,
+        "steer": 3.4899999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:43.728677",
+        "speed": 5.0,
+        "steer": 3.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:43.847521",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.026532",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.133959",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.324732",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.442920",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.627961",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.745213",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:44.945199",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:45.066921",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:45.250479",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:45.373366",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:45.602618",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:45.737659",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:45.941501",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:46.074247",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:46.312165",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:46.438560",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:46.636679",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:46.768399",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:46.964015",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:47.079924",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:47.397957",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:47.510340",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:47.701359",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:47.824376",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.002721",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.133808",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.324715",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.446961",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.620233",
+        "speed": 5.0,
+        "steer": 3.51,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.740068",
+        "speed": 5.0,
+        "steer": 3.4899999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:48.912751",
+        "speed": 5.0,
+        "steer": 3.4899999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.033597",
+        "speed": 5.0,
+        "steer": 3.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.253115",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.380920",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.576199",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.676379",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.845533",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:49.976969",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:50.154233",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:50.270318",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:50.438922",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:50.561992",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:50.747176",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:50.866701",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.048969",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.169957",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.352725",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.471081",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.648366",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.761334",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:51.938566",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.062235",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.239171",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.356409",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.537208",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.656988",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.840715",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:52.958221",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:53.144798",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:53.272794",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:53.457852",
+        "speed": 5.0,
+        "steer": 3.51,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:53.581532",
+        "speed": 5.0,
+        "steer": 3.4899999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:53.750863",
+        "speed": 5.0,
+        "steer": 3.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:53.873231",
+        "speed": 5.0,
+        "steer": 3.3899999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:54.059659",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:54.181273",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:54.365153",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:54.487263",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:54.678495",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:54.799896",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:55.208537",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:55.367132",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:55.555879",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:55.679494",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:55.871637",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:55.997621",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:56.181600",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:56.316560",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:56.503021",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:56.623210",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:56.808376",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:56.916121",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:57.108953",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:57.495880",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:57.911268",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:58.163735",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:58.580720",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:58.870425",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:59.293561",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:59.593243",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:05:59.997550",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:00.282565",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:00.745099",
+        "speed": 5.0,
+        "steer": 3.4099999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:01.031783",
+        "speed": 5.0,
+        "steer": 3.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:01.444095",
+        "speed": 5.0,
+        "steer": 3.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:01.718587",
+        "speed": 5.0,
+        "steer": 3.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:02.155712",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:02.431415",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:02.870193",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:03.126978",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:03.412950",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:03.532470",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:03.710800",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:03.831233",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.021988",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.143825",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.309455",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.424071",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.615762",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.739409",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:04.912880",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.034442",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.196249",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.315778",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.489602",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.614303",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.785331",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:05.915991",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.102219",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.222979",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.394896",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.513067",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.686782",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.808165",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:06.976626",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:07.074478",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:07.256627",
+        "speed": 5.0,
+        "steer": 3.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:07.375307",
+        "speed": 5.0,
+        "steer": 3.15,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:07.601903",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:07.720782",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:07.899922",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.022617",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.202590",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.315994",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.490348",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.618057",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.822072",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:08.953041",
+        "speed": 5.0,
+        "steer": 3.17,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:09.145986",
+        "speed": 5.0,
+        "steer": 3.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:09.264982",
+        "speed": 5.0,
+        "steer": 3.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:09.464227",
+        "speed": 5.0,
+        "steer": 3.27,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:09.607013",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:09.834948",
+        "speed": 5.0,
+        "steer": 3.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:09.985769",
+        "speed": 5.0,
+        "steer": 3.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:10.206194",
+        "speed": 5.0,
+        "steer": 3.15,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:10.355557",
+        "speed": 5.0,
+        "steer": 3.11,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:10.561120",
+        "speed": 5.0,
+        "steer": 3.13,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:10.699473",
+        "speed": 5.0,
+        "steer": 3.13,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:10.907245",
+        "speed": 5.0,
+        "steer": 3.07,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:11.036913",
+        "speed": 5.0,
+        "steer": 3.09,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:11.226932",
+        "speed": 5.0,
+        "steer": 3.03,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:11.354224",
+        "speed": 5.0,
+        "steer": 3.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:11.537138",
+        "speed": 5.0,
+        "steer": 3.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:11.662428",
+        "speed": 5.0,
+        "steer": 3.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:12.001391",
+        "speed": 5.0,
+        "steer": 3.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:06:12.211191",
+        "speed": 5.0,
+        "steer": 3.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:46.393146",
+        "speed": 0.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:47.091319",
+        "speed": 1.0,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:47.248409",
+        "speed": 1.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:47.507354",
+        "speed": 2.0,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:47.662092",
+        "speed": 2.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:47.912577",
+        "speed": 2.975,
+        "steer": 0.0,
+        "throttle": 0.95,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:48.067798",
+        "speed": 3.3895,
+        "steer": 0.0,
+        "throttle": 0.8289999999999998,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:48.320579",
+        "speed": 3.75139,
+        "steer": 0.0,
+        "throttle": 0.72378,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:48.482028",
+        "speed": 4.0665548,
+        "steer": 0.0,
+        "throttle": 0.6303296,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:48.725196",
+        "speed": 4.340280236,
+        "steer": 0.0,
+        "throttle": 0.5474508720000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:48.872293",
+        "speed": 4.57728143952,
+        "steer": 0.0,
+        "throttle": 0.4740024070400001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:49.104801",
+        "speed": 4.7817641611264,
+        "steer": 0.0,
+        "throttle": 0.40896544321280004,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:49.262816",
+        "speed": 4.957478615734048,
+        "steer": 0.0,
+        "throttle": 0.35142890921529596,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:49.451486",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.3005782000255989,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:49.591597",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.29448143826289797,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:49.794991",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.2966075074761956,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:49.932373",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.2966075074761956,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:50.141313",
+        "speed": 4.6,
+        "steer": 0.0,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:13:50.278896",
+        "speed": 4.662,
+        "steer": 0.0,
+        "throttle": 0.12400000000000011,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:50.482355",
+        "speed": 4.71484,
+        "steer": -4.0,
+        "throttle": 0.10568,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:50.626654",
+        "speed": 4.7614088,
+        "steer": -2.9699999999999998,
+        "throttle": 0.0931376000000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:50.831078",
+        "speed": 4.802342016,
+        "steer": -3.05,
+        "throttle": 0.08186643200000003,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:50.970850",
+        "speed": 4.83826442912,
+        "steer": -3.13,
+        "throttle": 0.07184482624000003,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:51.173194",
+        "speed": 4.869732428198399,
+        "steer": -3.15,
+        "throttle": 0.06293599815680012,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:51.312740",
+        "speed": 4.897242925625087,
+        "steer": -3.19,
+        "throttle": 0.05502099485337623,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:51.527295",
+        "speed": 4.92123957135094,
+        "steer": -3.23,
+        "throttle": 0.047993291451704626,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:51.666032",
+        "speed": 4.942118368653681,
+        "steer": -3.27,
+        "throttle": 0.04175759460548117,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:51.893590",
+        "speed": 4.960232700728319,
+        "steer": -3.31,
+        "throttle": 0.03622866414927769,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:52.032106",
+        "speed": 4.975897831118823,
+        "steer": -3.41,
+        "throttle": 0.031330260781008014,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:52.242340",
+        "speed": 4.989394932837261,
+        "steer": -3.37,
+        "throttle": 0.02699420343687532,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:52.394627",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.023159525026574847,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:52.615815",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.020122606605537944,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:52.750925",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:52.962412",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:53.102400",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:53.327124",
+        "speed": 5.0,
+        "steer": -3.4299999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:53.469594",
+        "speed": 5.0,
+        "steer": -3.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:53.666919",
+        "speed": 5.0,
+        "steer": -3.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:53.811844",
+        "speed": 5.0,
+        "steer": -3.4499999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:54.008167",
+        "speed": 5.0,
+        "steer": -3.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:54.151387",
+        "speed": 5.0,
+        "steer": -3.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:54.361464",
+        "speed": 5.0,
+        "steer": -3.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:54.511489",
+        "speed": 5.0,
+        "steer": -3.59,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:54.769358",
+        "speed": 5.0,
+        "steer": -3.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:54.935017",
+        "speed": 5.0,
+        "steer": -3.63,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:55.150028",
+        "speed": 5.0,
+        "steer": -3.61,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:55.295377",
+        "speed": 5.0,
+        "steer": -3.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:55.497265",
+        "speed": 5.0,
+        "steer": -3.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:55.644334",
+        "speed": 5.0,
+        "steer": -3.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:56.064942",
+        "speed": 5.0,
+        "steer": -3.53,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:56.380966",
+        "speed": 5.0,
+        "steer": -3.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:56.953324",
+        "speed": 5.0,
+        "steer": -3.3699999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:57.298924",
+        "speed": 5.0,
+        "steer": -3.29,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:57.879499",
+        "speed": 5.0,
+        "steer": -3.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:58.258760",
+        "speed": 5.0,
+        "steer": -3.17,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:58.865326",
+        "speed": 5.0,
+        "steer": -3.09,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:59.191558",
+        "speed": 5.0,
+        "steer": -3.07,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:13:59.757980",
+        "speed": 5.0,
+        "steer": -2.9099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:00.075315",
+        "speed": 5.0,
+        "steer": -2.8499999999999996,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:00.690055",
+        "speed": 5.0,
+        "steer": -2.77,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:01.062277",
+        "speed": 5.0,
+        "steer": -2.75,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:01.683196",
+        "speed": 5.0,
+        "steer": -2.65,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:01.994618",
+        "speed": 5.0,
+        "steer": -2.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:02.568621",
+        "speed": 5.0,
+        "steer": -2.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:02.907506",
+        "speed": 5.0,
+        "steer": -2.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:03.542452",
+        "speed": 5.0,
+        "steer": -2.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:03.811566",
+        "speed": 5.0,
+        "steer": -2.4299999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:04.452064",
+        "speed": 5.0,
+        "steer": -2.3899999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:04.799962",
+        "speed": 5.0,
+        "steer": -2.3499999999999996,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:05.324058",
+        "speed": 5.0,
+        "steer": -2.3699999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:05.601813",
+        "speed": 5.0,
+        "steer": -2.31,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:06.202935",
+        "speed": 5.0,
+        "steer": -2.33,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:06.534695",
+        "speed": 5.0,
+        "steer": -2.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:07.058578",
+        "speed": 5.0,
+        "steer": -2.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:07.359920",
+        "speed": 5.0,
+        "steer": -2.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:07.910324",
+        "speed": 5.0,
+        "steer": -2.63,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:08.158458",
+        "speed": 5.0,
+        "steer": -2.69,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:08.671103",
+        "speed": 5.0,
+        "steer": -2.71,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:09.031955",
+        "speed": 5.0,
+        "steer": -2.75,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:09.601135",
+        "speed": 5.0,
+        "steer": -2.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:09.930533",
+        "speed": 5.0,
+        "steer": -2.61,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:10.520460",
+        "speed": 5.0,
+        "steer": -2.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:10.868853",
+        "speed": 5.0,
+        "steer": -2.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:11.499045",
+        "speed": 5.0,
+        "steer": -2.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:11.825756",
+        "speed": 5.0,
+        "steer": -2.21,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:12.437185",
+        "speed": 5.0,
+        "steer": -2.25,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:12.774090",
+        "speed": 5.0,
+        "steer": -2.19,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:13.360430",
+        "speed": 5.0,
+        "steer": -2.15,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:13.739133",
+        "speed": 5.0,
+        "steer": -2.11,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:14.348787",
+        "speed": 5.0,
+        "steer": -2.01,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:14.693073",
+        "speed": 5.0,
+        "steer": -1.93,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:15.262007",
+        "speed": 5.0,
+        "steer": -1.85,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:15.634045",
+        "speed": 5.0,
+        "steer": -1.83,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:16.226935",
+        "speed": 4.6,
+        "steer": -1.73,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:14:16.561613",
+        "speed": 4.662,
+        "steer": -1.71,
+        "throttle": 0.12400000000000011,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:17.250729",
+        "speed": 4.262,
+        "steer": -1.61,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:14:17.620363",
+        "speed": 4.37639,
+        "steer": -1.59,
+        "throttle": 0.22878000000000012,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:18.213096",
+        "speed": 4.4738798,
+        "steer": -1.55,
+        "throttle": 0.19497960000000006,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:18.568708",
+        "speed": 4.559799236,
+        "steer": -1.51,
+        "throttle": 0.1718388720000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:19.200246",
+        "speed": 4.63532101952,
+        "steer": -1.53,
+        "throttle": 0.15104356704,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:19.528574",
+        "speed": 4.7015978717264,
+        "steer": -1.47,
+        "throttle": 0.13255370441279998,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:20.089022",
+        "speed": 4.759656330026048,
+        "steer": -1.4300000000000002,
+        "throttle": 0.11611691659929602,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:20.431524",
+        "speed": 4.810413197778288,
+        "steer": -1.4500000000000002,
+        "throttle": 0.10151373550447874,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:21.019917",
+        "speed": 4.854687009142485,
+        "steer": -1.4500000000000002,
+        "throttle": 0.08854762272839439,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:21.365550",
+        "speed": 4.893208390166041,
+        "steer": -1.3900000000000001,
+        "throttle": 0.07704276204711236,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:21.986923",
+        "speed": 4.493208390166041,
+        "steer": -1.4100000000000001,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:14:22.373338",
+        "speed": 4.5717610896903045,
+        "steer": -1.4100000000000001,
+        "throttle": 0.15710539904852733,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:23.027545",
+        "speed": 4.638708261349371,
+        "steer": -1.53,
+        "throttle": 0.13389434331813202,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:23.409731",
+        "speed": 4.69770995414946,
+        "steer": -1.55,
+        "throttle": 0.11800338560017826,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:24.014777",
+        "speed": 4.749571480230262,
+        "steer": -1.59,
+        "throttle": 0.10372305216160593,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:24.373048",
+        "speed": 4.7950844241657755,
+        "steer": -1.6300000000000001,
+        "throttle": 0.09102588787102683,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:25.100671",
+        "speed": 4.8349537189437655,
+        "steer": -1.43,
+        "throttle": 0.07973858955597954,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:25.426502",
+        "speed": 4.869808942139276,
+        "steer": -1.25,
+        "throttle": 0.06971044639102107,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:26.045235",
+        "speed": 4.900212188934326,
+        "steer": -1.21,
+        "throttle": 0.06080649359009918,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:26.211232",
+        "speed": 4.926665187175458,
+        "steer": -1.1300000000000001,
+        "throttle": 0.052905996482263976,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:26.427142",
+        "speed": 4.949615665958391,
+        "steer": -0.99,
+        "throttle": 0.04590095756586557,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:26.576116",
+        "speed": 4.969463057580547,
+        "steer": -0.93,
+        "throttle": 0.039694783244311686,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:26.782592",
+        "speed": 4.986563602350496,
+        "steer": -0.7300000000000001,
+        "throttle": 0.03420108953989843,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:27.049642",
+        "speed": 5.0,
+        "steer": -0.6900000000000001,
+        "throttle": 0.029342632428019013,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:27.684143",
+        "speed": 5.0,
+        "steer": -0.61,
+        "throttle": 0.025494920489190075,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:28.057818",
+        "speed": 5.0,
+        "steer": -0.5900000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:28.747265",
+        "speed": 5.0,
+        "steer": -0.55,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:29.119872",
+        "speed": 5.0,
+        "steer": -0.51,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:29.703205",
+        "speed": 5.0,
+        "steer": -0.47,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:30.009314",
+        "speed": 5.0,
+        "steer": -0.43,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:30.671719",
+        "speed": 5.0,
+        "steer": -0.38999999999999996,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:30.979034",
+        "speed": 5.0,
+        "steer": -0.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:31.542750",
+        "speed": 5.0,
+        "steer": -0.37,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:31.853240",
+        "speed": 5.0,
+        "steer": -0.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:32.442114",
+        "speed": 5.0,
+        "steer": -0.33,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:32.681586",
+        "speed": 5.0,
+        "steer": -0.26999999999999996,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:33.246407",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:33.611117",
+        "speed": 5.0,
+        "steer": -0.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:34.244805",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:34.616185",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:35.241665",
+        "speed": 5.0,
+        "steer": -0.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:35.592269",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:36.214479",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:36.537663",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:37.105420",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:37.457494",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:38.037052",
+        "speed": 5.0,
+        "steer": -0.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:38.399552",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:39.031954",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:39.375425",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:40.035420",
+        "speed": 5.0,
+        "steer": 0.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:40.378584",
+        "speed": 5.0,
+        "steer": 0.194,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:40.987415",
+        "speed": 5.0,
+        "steer": 0.30100000000000005,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:41.325483",
+        "speed": 5.0,
+        "steer": 0.431,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:41.921658",
+        "speed": 5.0,
+        "steer": 0.625,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:42.242780",
+        "speed": 5.0,
+        "steer": 0.742,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:42.895461",
+        "speed": 5.0,
+        "steer": 0.76,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:43.225090",
+        "speed": 5.0,
+        "steer": 0.8800000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:43.775931",
+        "speed": 5.0,
+        "steer": 0.91,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:44.126300",
+        "speed": 5.0,
+        "steer": 1.01,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:44.648154",
+        "speed": 5.0,
+        "steer": 1.03,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:44.861339",
+        "speed": 5.0,
+        "steer": 1.1300000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:45.328030",
+        "speed": 5.0,
+        "steer": 1.09,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:45.483293",
+        "speed": 5.0,
+        "steer": 1.1500000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:45.714817",
+        "speed": 5.0,
+        "steer": 1.1900000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:45.869010",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:46.092022",
+        "speed": 5.0,
+        "steer": 1.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:46.239364",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:46.453341",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:46.595305",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:46.826024",
+        "speed": 5.0,
+        "steer": 1.27,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:46.976781",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:47.217672",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:14:47.363396",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:05.573962",
+        "speed": 0.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:06.286423",
+        "speed": 1.0,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:06.457412",
+        "speed": 1.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:06.732459",
+        "speed": 2.0,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:06.900259",
+        "speed": 2.5,
+        "steer": 0.0,
+        "throttle": 1.0,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:07.145388",
+        "speed": 2.975,
+        "steer": 0.0,
+        "throttle": 0.95,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:07.316774",
+        "speed": 3.3895,
+        "steer": 0.0,
+        "throttle": 0.8289999999999998,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:07.554621",
+        "speed": 3.75139,
+        "steer": 0.0,
+        "throttle": 0.72378,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:07.726806",
+        "speed": 4.0665548,
+        "steer": 0.0,
+        "throttle": 0.6303296,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:07.982076",
+        "speed": 4.340280236,
+        "steer": 0.0,
+        "throttle": 0.5474508720000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:08.155408",
+        "speed": 4.57728143952,
+        "steer": 0.0,
+        "throttle": 0.4740024070400001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:08.395018",
+        "speed": 4.7817641611264,
+        "steer": 0.0,
+        "throttle": 0.40896544321280004,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:08.580246",
+        "speed": 4.957478615734048,
+        "steer": 0.0,
+        "throttle": 0.35142890921529596,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:08.820873",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.3005782000255989,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:08.995323",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.29448143826289797,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:09.243108",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.2966075074761956,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:09.419708",
+        "speed": 5.0,
+        "steer": 0.0,
+        "throttle": 0.2966075074761956,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:09.698380",
+        "speed": 4.6,
+        "steer": 0.0,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:32:09.895161",
+        "speed": 4.662,
+        "steer": 0.0,
+        "throttle": 0.12400000000000011,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:10.137069",
+        "speed": 4.71484,
+        "steer": -4.0,
+        "throttle": 0.10568,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:10.300760",
+        "speed": 4.7614088,
+        "steer": -2.9699999999999998,
+        "throttle": 0.0931376000000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:10.971794",
+        "speed": 4.802342016,
+        "steer": -3.05,
+        "throttle": 0.08186643200000003,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:11.351508",
+        "speed": 4.83826442912,
+        "steer": -3.13,
+        "throttle": 0.07184482624000003,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:12.002316",
+        "speed": 4.869732428198399,
+        "steer": -3.15,
+        "throttle": 0.06293599815680012,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:12.406723",
+        "speed": 4.897242925625087,
+        "steer": -3.19,
+        "throttle": 0.05502099485337623,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:13.029139",
+        "speed": 4.92123957135094,
+        "steer": -3.23,
+        "throttle": 0.047993291451704626,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:13.431149",
+        "speed": 4.942118368653681,
+        "steer": -3.27,
+        "throttle": 0.04175759460548117,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:13.988242",
+        "speed": 4.960232700728319,
+        "steer": -3.31,
+        "throttle": 0.03622866414927769,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:14.293043",
+        "speed": 4.975897831118823,
+        "steer": -3.41,
+        "throttle": 0.031330260781008014,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:15.238608",
+        "speed": 4.989394932837261,
+        "steer": -3.37,
+        "throttle": 0.02699420343687532,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:15.609877",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.023159525026574847,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:16.197878",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.020122606605537944,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:16.550461",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:17.234972",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:17.705513",
+        "speed": 5.0,
+        "steer": -3.37,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:18.278254",
+        "speed": 5.0,
+        "steer": -3.4299999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:18.626394",
+        "speed": 5.0,
+        "steer": -3.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:19.262870",
+        "speed": 5.0,
+        "steer": -3.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:19.579815",
+        "speed": 5.0,
+        "steer": -3.4499999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:20.222997",
+        "speed": 5.0,
+        "steer": -3.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:20.554218",
+        "speed": 5.0,
+        "steer": -3.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:21.288732",
+        "speed": 5.0,
+        "steer": -3.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:21.648546",
+        "speed": 5.0,
+        "steer": -3.59,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:22.244085",
+        "speed": 5.0,
+        "steer": -3.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:22.599335",
+        "speed": 5.0,
+        "steer": -3.63,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:23.221887",
+        "speed": 5.0,
+        "steer": -3.61,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:23.581616",
+        "speed": 5.0,
+        "steer": -3.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:24.190278",
+        "speed": 5.0,
+        "steer": -3.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:24.557045",
+        "speed": 5.0,
+        "steer": -3.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:25.109232",
+        "speed": 5.0,
+        "steer": -3.53,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:25.503741",
+        "speed": 5.0,
+        "steer": -3.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:25.980090",
+        "speed": 5.0,
+        "steer": -3.3699999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:26.216446",
+        "speed": 5.0,
+        "steer": -3.29,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:26.872811",
+        "speed": 5.0,
+        "steer": -3.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:27.206516",
+        "speed": 5.0,
+        "steer": -3.17,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:27.788543",
+        "speed": 5.0,
+        "steer": -3.09,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:28.141898",
+        "speed": 5.0,
+        "steer": -3.07,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:28.806714",
+        "speed": 5.0,
+        "steer": -2.9099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:29.110604",
+        "speed": 5.0,
+        "steer": -2.8499999999999996,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:29.704919",
+        "speed": 5.0,
+        "steer": -2.77,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:30.002259",
+        "speed": 5.0,
+        "steer": -2.75,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:30.595811",
+        "speed": 5.0,
+        "steer": -2.65,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:30.914728",
+        "speed": 5.0,
+        "steer": -2.57,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:31.479265",
+        "speed": 5.0,
+        "steer": -2.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:31.799068",
+        "speed": 5.0,
+        "steer": -2.51,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:32.347892",
+        "speed": 5.0,
+        "steer": -2.4699999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:32.731753",
+        "speed": 5.0,
+        "steer": -2.4299999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:33.357656",
+        "speed": 5.0,
+        "steer": -2.3899999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:33.712907",
+        "speed": 5.0,
+        "steer": -2.3499999999999996,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:34.320307",
+        "speed": 5.0,
+        "steer": -2.3699999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:34.704211",
+        "speed": 5.0,
+        "steer": -2.31,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:35.424947",
+        "speed": 5.0,
+        "steer": -2.33,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:35.755788",
+        "speed": 5.0,
+        "steer": -2.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:36.460470",
+        "speed": 5.0,
+        "steer": -2.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:36.794550",
+        "speed": 5.0,
+        "steer": -2.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:37.401756",
+        "speed": 5.0,
+        "steer": -2.63,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:37.751084",
+        "speed": 5.0,
+        "steer": -2.69,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:38.386342",
+        "speed": 5.0,
+        "steer": -2.71,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:38.729068",
+        "speed": 5.0,
+        "steer": -2.75,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:39.468387",
+        "speed": 5.0,
+        "steer": -2.55,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:39.779098",
+        "speed": 5.0,
+        "steer": -2.61,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:42.002899",
+        "speed": 5.0,
+        "steer": -2.4899999999999998,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:42.358666",
+        "speed": 5.0,
+        "steer": -2.4099999999999997,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:43.144870",
+        "speed": 5.0,
+        "steer": -2.27,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:43.501001",
+        "speed": 5.0,
+        "steer": -2.21,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:44.180149",
+        "speed": 5.0,
+        "steer": -2.25,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:44.545641",
+        "speed": 5.0,
+        "steer": -2.19,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:45.295984",
+        "speed": 5.0,
+        "steer": -2.15,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:45.731701",
+        "speed": 5.0,
+        "steer": -2.11,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:46.564811",
+        "speed": 5.0,
+        "steer": -2.01,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:46.913174",
+        "speed": 5.0,
+        "steer": -1.93,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:47.628885",
+        "speed": 5.0,
+        "steer": -1.85,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:47.989422",
+        "speed": 5.0,
+        "steer": -1.83,
+        "throttle": 0.02065285996367491,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:48.648877",
+        "speed": 4.6,
+        "steer": -1.73,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:32:49.029839",
+        "speed": 4.662,
+        "steer": -1.71,
+        "throttle": 0.12400000000000011,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:49.639707",
+        "speed": 4.262,
+        "steer": -1.61,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:32:50.043061",
+        "speed": 4.37639,
+        "steer": -1.59,
+        "throttle": 0.22878000000000012,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:51.003070",
+        "speed": 4.4738798,
+        "steer": -1.55,
+        "throttle": 0.19497960000000006,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:51.384936",
+        "speed": 4.559799236,
+        "steer": -1.51,
+        "throttle": 0.1718388720000001,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:52.213968",
+        "speed": 4.63532101952,
+        "steer": -1.53,
+        "throttle": 0.15104356704,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:52.597518",
+        "speed": 4.7015978717264,
+        "steer": -1.47,
+        "throttle": 0.13255370441279998,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:53.279225",
+        "speed": 4.759656330026048,
+        "steer": -1.4300000000000002,
+        "throttle": 0.11611691659929602,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:53.701853",
+        "speed": 4.810413197778288,
+        "steer": -1.4500000000000002,
+        "throttle": 0.10151373550447874,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:54.488776",
+        "speed": 4.854687009142485,
+        "steer": -1.4500000000000002,
+        "throttle": 0.08854762272839439,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:54.917486",
+        "speed": 4.893208390166041,
+        "steer": -1.3900000000000001,
+        "throttle": 0.07704276204711236,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:55.654543",
+        "speed": 4.493208390166041,
+        "steer": -1.4100000000000001,
+        "throttle": 0.0,
+        "brake": true
+    },
+    {
+        "timestamp": "2026-06-12T14:32:55.998747",
+        "speed": 4.5717610896903045,
+        "steer": -1.4100000000000001,
+        "throttle": 0.15710539904852733,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:57.280432",
+        "speed": 4.638708261349371,
+        "steer": -1.53,
+        "throttle": 0.13389434331813202,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:57.649166",
+        "speed": 4.69770995414946,
+        "steer": -1.55,
+        "throttle": 0.11800338560017826,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:58.291136",
+        "speed": 4.749571480230262,
+        "steer": -1.59,
+        "throttle": 0.10372305216160593,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:58.645244",
+        "speed": 4.7950844241657755,
+        "steer": -1.6300000000000001,
+        "throttle": 0.09102588787102683,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:32:59.813846",
+        "speed": 4.8349537189437655,
+        "steer": -1.43,
+        "throttle": 0.07973858955597954,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:00.175675",
+        "speed": 4.869808942139276,
+        "steer": -1.25,
+        "throttle": 0.06971044639102107,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:00.920424",
+        "speed": 4.900212188934326,
+        "steer": -1.21,
+        "throttle": 0.06080649359009918,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:01.518865",
+        "speed": 4.926665187175458,
+        "steer": -1.1300000000000001,
+        "throttle": 0.052905996482263976,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:02.182186",
+        "speed": 4.949615665958391,
+        "steer": -0.99,
+        "throttle": 0.04590095756586557,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:02.555316",
+        "speed": 4.969463057580547,
+        "steer": -0.93,
+        "throttle": 0.039694783244311686,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:03.150511",
+        "speed": 4.986563602350496,
+        "steer": -0.7300000000000001,
+        "throttle": 0.03420108953989843,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:03.500580",
+        "speed": 5.0,
+        "steer": -0.6900000000000001,
+        "throttle": 0.029342632428019013,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:04.307519",
+        "speed": 5.0,
+        "steer": -0.61,
+        "throttle": 0.025494920489190075,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:04.617896",
+        "speed": 5.0,
+        "steer": -0.5900000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:05.240125",
+        "speed": 5.0,
+        "steer": -0.55,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:05.589070",
+        "speed": 5.0,
+        "steer": -0.51,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:06.135913",
+        "speed": 5.0,
+        "steer": -0.47,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:06.487337",
+        "speed": 5.0,
+        "steer": -0.43,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:07.253317",
+        "speed": 5.0,
+        "steer": -0.38999999999999996,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:07.588983",
+        "speed": 5.0,
+        "steer": -0.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:08.193326",
+        "speed": 5.0,
+        "steer": -0.37,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:08.521515",
+        "speed": 5.0,
+        "steer": -0.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:09.152541",
+        "speed": 5.0,
+        "steer": -0.33,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:09.510345",
+        "speed": 5.0,
+        "steer": -0.26999999999999996,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:10.096315",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:10.465657",
+        "speed": 5.0,
+        "steer": -0.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:11.014940",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:11.395304",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:12.090177",
+        "speed": 5.0,
+        "steer": -0.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:12.554952",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:13.146787",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:13.508706",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:14.145271",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:14.451634",
+        "speed": 5.0,
+        "steer": -0.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:14.996250",
+        "speed": 5.0,
+        "steer": -0.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:15.316395",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:15.891407",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:16.161574",
+        "speed": 5.0,
+        "steer": -0.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:16.743869",
+        "speed": 5.0,
+        "steer": 0.05,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:17.084008",
+        "speed": 5.0,
+        "steer": 0.194,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:17.796915",
+        "speed": 5.0,
+        "steer": 0.30100000000000005,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:18.152336",
+        "speed": 5.0,
+        "steer": 0.431,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:18.732951",
+        "speed": 5.0,
+        "steer": 0.625,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:19.047389",
+        "speed": 5.0,
+        "steer": 0.742,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:19.608334",
+        "speed": 5.0,
+        "steer": 0.76,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:19.970791",
+        "speed": 5.0,
+        "steer": 0.8800000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:20.622274",
+        "speed": 5.0,
+        "steer": 0.91,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:20.932543",
+        "speed": 5.0,
+        "steer": 1.01,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:21.610973",
+        "speed": 5.0,
+        "steer": 1.03,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:21.887173",
+        "speed": 5.0,
+        "steer": 1.1300000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:22.413717",
+        "speed": 5.0,
+        "steer": 1.09,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:22.712961",
+        "speed": 5.0,
+        "steer": 1.1500000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:23.235500",
+        "speed": 5.0,
+        "steer": 1.1900000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:23.502519",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:24.072447",
+        "speed": 5.0,
+        "steer": 1.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:24.333629",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:24.887818",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:25.106780",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:25.697595",
+        "speed": 5.0,
+        "steer": 1.27,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:25.998725",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:26.524011",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:26.771184",
+        "speed": 5.0,
+        "steer": 1.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:27.447142",
+        "speed": 5.0,
+        "steer": 1.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:28.090198",
+        "speed": 5.0,
+        "steer": 1.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:29.158684",
+        "speed": 5.0,
+        "steer": 1.1500000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:29.602955",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:30.341511",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:30.672062",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:31.218294",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:31.586330",
+        "speed": 5.0,
+        "steer": 1.1700000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:32.323621",
+        "speed": 5.0,
+        "steer": 1.4100000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:32.718655",
+        "speed": 5.0,
+        "steer": 1.5100000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:33.364011",
+        "speed": 5.0,
+        "steer": 1.6300000000000001,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:33.745838",
+        "speed": 5.0,
+        "steer": 1.7500000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:34.345347",
+        "speed": 5.0,
+        "steer": 1.87,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:34.748844",
+        "speed": 5.0,
+        "steer": 1.9300000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:35.327854",
+        "speed": 5.0,
+        "steer": 1.9500000000000002,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:35.698857",
+        "speed": 5.0,
+        "steer": 1.99,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:36.300628",
+        "speed": 5.0,
+        "steer": 2.09,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:36.702351",
+        "speed": 5.0,
+        "steer": 2.11,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:37.420985",
+        "speed": 5.0,
+        "steer": 2.15,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:37.786776",
+        "speed": 5.0,
+        "steer": 2.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:38.415250",
+        "speed": 5.0,
+        "steer": 2.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:38.797016",
+        "speed": 5.0,
+        "steer": 2.21,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:39.457133",
+        "speed": 5.0,
+        "steer": 2.27,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:39.845396",
+        "speed": 5.0,
+        "steer": 2.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:40.480719",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:40.769788",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:41.344068",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:41.703448",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:42.339749",
+        "speed": 5.0,
+        "steer": 2.23,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:42.728295",
+        "speed": 5.0,
+        "steer": 2.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:43.286643",
+        "speed": 5.0,
+        "steer": 2.25,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:43.697158",
+        "speed": 5.0,
+        "steer": 2.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:44.333576",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:44.638009",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:45.220623",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:45.479148",
+        "speed": 5.0,
+        "steer": 2.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:46.086077",
+        "speed": 5.0,
+        "steer": 2.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:46.523752",
+        "speed": 5.0,
+        "steer": 2.3899999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:47.171253",
+        "speed": 5.0,
+        "steer": 2.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:47.547312",
+        "speed": 5.0,
+        "steer": 2.4699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:48.349480",
+        "speed": 5.0,
+        "steer": 2.57,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:48.699498",
+        "speed": 5.0,
+        "steer": 2.65,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:49.287563",
+        "speed": 5.0,
+        "steer": 2.67,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:49.636791",
+        "speed": 5.0,
+        "steer": 2.71,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:50.222358",
+        "speed": 5.0,
+        "steer": 2.69,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:50.614913",
+        "speed": 5.0,
+        "steer": 2.75,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:51.190679",
+        "speed": 5.0,
+        "steer": 2.79,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:51.529195",
+        "speed": 5.0,
+        "steer": 2.83,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:52.104793",
+        "speed": 5.0,
+        "steer": 2.9299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:52.466416",
+        "speed": 5.0,
+        "steer": 2.8899999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:53.044780",
+        "speed": 5.0,
+        "steer": 2.9499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:53.401383",
+        "speed": 5.0,
+        "steer": 2.9299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:53.964313",
+        "speed": 5.0,
+        "steer": 2.9899999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:54.329157",
+        "speed": 5.0,
+        "steer": 2.9699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:54.910940",
+        "speed": 5.0,
+        "steer": 2.9699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:55.156311",
+        "speed": 5.0,
+        "steer": 3.03,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:55.713168",
+        "speed": 5.0,
+        "steer": 3.07,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:56.022983",
+        "speed": 5.0,
+        "steer": 3.11,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:56.936454",
+        "speed": 5.0,
+        "steer": 3.15,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:57.278671",
+        "speed": 5.0,
+        "steer": 3.19,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:58.086611",
+        "speed": 5.0,
+        "steer": 3.29,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:58.321576",
+        "speed": 5.0,
+        "steer": 3.31,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:58.875312",
+        "speed": 5.0,
+        "steer": 3.35,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:59.105137",
+        "speed": 5.0,
+        "steer": 3.39,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:59.646637",
+        "speed": 5.0,
+        "steer": 3.4299999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:33:59.899908",
+        "speed": 5.0,
+        "steer": 3.4699999999999998,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:00.435341",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:00.769512",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:01.289632",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:01.582962",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:02.140728",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:02.450320",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:02.936955",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:03.108416",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:03.413370",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:03.623930",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:03.909221",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:04.100131",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:04.359194",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:04.549298",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:04.786473",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:04.976779",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
+    },
+    {
+        "timestamp": "2026-06-12T14:34:05.221303",
+        "speed": 5.0,
+        "steer": 3.4499999999999997,
+        "throttle": 0.026166740371665276,
+        "brake": false
     }
 ]

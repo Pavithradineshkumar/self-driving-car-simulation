@@ -6,6 +6,11 @@ import AnalyticsChart from "./components/AnalyticsChart"
 import ThreeSimulation from "./components/ThreeSimulation"
 import WarningPanel from "./components/WarningPanel"
 import { useWebSocket } from "./hooks/useWebSocket"
+import TelemetryCard from "./components/TelemetryCard"
+import MonitoringCard from "./components/MonitoringCard"
+import RLPanel from "./components/RLPanel"
+import ReplayPanel from "./components/ReplayPanel"
+import AlertsPanel from "./components/AlertsPanel"
 
 export default function App() {
   const { data, status } = useWebSocket("ws://localhost:8000/ws")
@@ -70,6 +75,39 @@ export default function App() {
       />
 
       <hr />
+      <hr />
+
+      <TelemetryCard data={data} />
+
+      <hr />
+
+      <MonitoringCard
+        speed={data?.speed || 0}
+        state={data?.behavior_state || "IDLE"}
+        warnings={data?.warnings || []}
+      />
+
+      <hr />
+
+      <RLPanel
+        epsilon={data?.epsilon || 0}
+        episode={data?.episode || 0}
+        qValues={data?.q_values || [0,0,0,0]}
+      />
+
+      <hr />
+
+      <ReplayPanel
+        speedHistory={data?.speed_history || []}
+        rewardHistory={data?.reward_history || []}
+      />
+
+      <hr />
+
+      <AlertsPanel
+        warnings={data?.warnings || []}
+        emergency={data?.emergency || false}
+      />
     </div>
   )
 }
